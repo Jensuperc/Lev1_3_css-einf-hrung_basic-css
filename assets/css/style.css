@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+}
+
+
+header nav ul {
+    background-color: grey;
+}
+
+
+header nav ul a {
+    color: red;
+}
+
+main section a {
+    color: red;
+    text-align: left;
+    display: block;
+}
+
+main section p {
+    color: rgb(0, 0, 0);
+}
